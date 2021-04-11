@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Form-task/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Form-task/static/js/main.531794be.chunk.js",
-    "main.js.map": "/Form-task/static/js/main.531794be.chunk.js.map",
-    "runtime-main.js": "/Form-task/static/js/runtime-main.6444c07c.js",
-    "runtime-main.js.map": "/Form-task/static/js/runtime-main.6444c07c.js.map",
-    "static/js/2.8e4cd30a.chunk.js": "/Form-task/static/js/2.8e4cd30a.chunk.js",
-    "static/js/2.8e4cd30a.chunk.js.map": "/Form-task/static/js/2.8e4cd30a.chunk.js.map",
-    "static/js/3.e403228d.chunk.js": "/Form-task/static/js/3.e403228d.chunk.js",
-    "static/js/3.e403228d.chunk.js.map": "/Form-task/static/js/3.e403228d.chunk.js.map",
+    "main.js": "/Form-task/static/js/main.576a68d7.chunk.js",
+    "main.js.map": "/Form-task/static/js/main.576a68d7.chunk.js.map",
+    "runtime-main.js": "/Form-task/static/js/runtime-main.3095bf39.js",
+    "runtime-main.js.map": "/Form-task/static/js/runtime-main.3095bf39.js.map",
+    "static/js/2.e539d4b9.chunk.js": "/Form-task/static/js/2.e539d4b9.chunk.js",
+    "static/js/2.e539d4b9.chunk.js.map": "/Form-task/static/js/2.e539d4b9.chunk.js.map",
+    "static/js/3.ce314d6c.chunk.js": "/Form-task/static/js/3.ce314d6c.chunk.js",
+    "static/js/3.ce314d6c.chunk.js.map": "/Form-task/static/js/3.ce314d6c.chunk.js.map",
     "index.html": "/Form-task/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/Form-task/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8e4cd30a.chunk.js.LICENSE.txt": "/Form-task/static/js/2.8e4cd30a.chunk.js.LICENSE.txt"
+    "static/js/2.e539d4b9.chunk.js.LICENSE.txt": "/Form-task/static/js/2.e539d4b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6444c07c.js",
-    "static/js/2.8e4cd30a.chunk.js",
+    "static/js/runtime-main.3095bf39.js",
+    "static/js/2.e539d4b9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.531794be.chunk.js"
+    "static/js/main.576a68d7.chunk.js"
   ]
 }
