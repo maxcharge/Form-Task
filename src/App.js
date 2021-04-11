@@ -1,3 +1,4 @@
+import React from 'react';
 import FormComponent from './components/FormComponent'
 import Home from './components/Home'
 
