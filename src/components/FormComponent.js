@@ -7,12 +7,8 @@ import {CgProfile} from 'react-icons/cg'
 import { useHistory } from 'react-router-dom'
 
 function FormComponent(){
-  
-  {/*History Hook*/}
 
   let history = useHistory();
-  
-  {/*Given Sample data*/}
 
   const sample={
     data:{
