@@ -1,4 +1,5 @@
 import React from 'react';
+import background from "./GreenBanner.png" 
 import FormComponent from './components/FormComponent'
 import Home from './components/Home'
 
@@ -10,9 +11,17 @@ import {
 
 function App() {
 
+  
 
   return (
-    <div className="App" >
+    <div className="App" style={{
+      backgroundImage: `url(${background})` ,
+      backgroundSize:"cover", 
+      position:"fixed",
+      minHeight:"100%",
+      minWidth:"100%",
+      backgroundPosition:"center",
+       }} >
      <Router>
       <div>
         <Switch>

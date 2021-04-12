@@ -94,7 +94,7 @@ function FormComponent(){
               toHome();
             }
             else{
-              alert("Wrong Data Enter Again");
+              alert("Wrong Data Enter Again name: rohit,email: rroo@gmail.com,password: 1234567890,");
               resetForm();
             }
             setSubmitting(false);
