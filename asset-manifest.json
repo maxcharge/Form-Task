@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Form-Task/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Form-Task/static/js/main.27fef6b8.chunk.js",
-    "main.js.map": "/Form-Task/static/js/main.27fef6b8.chunk.js.map",
+    "main.js": "/Form-Task/static/js/main.38a44df8.chunk.js",
+    "main.js.map": "/Form-Task/static/js/main.38a44df8.chunk.js.map",
     "runtime-main.js": "/Form-Task/static/js/runtime-main.0bab5028.js",
     "runtime-main.js.map": "/Form-Task/static/js/runtime-main.0bab5028.js.map",
     "static/js/2.e539d4b9.chunk.js": "/Form-Task/static/js/2.e539d4b9.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/Form-Task/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/Form-Task/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.e539d4b9.chunk.js.LICENSE.txt": "/Form-Task/static/js/2.e539d4b9.chunk.js.LICENSE.txt",
-    "static/media/GreenBanner.354ca16a.png": "/Form-Task/static/media/GreenBanner.354ca16a.png"
+    "static/media/GreenBanner.10d6e542.png": "/Form-Task/static/media/GreenBanner.10d6e542.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0bab5028.js",
     "static/js/2.e539d4b9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.27fef6b8.chunk.js"
+    "static/js/main.38a44df8.chunk.js"
   ]
 }
